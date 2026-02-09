@@ -53,7 +53,8 @@ print("dell processor:", dell.processor)
 print("dell ram:", dell.ram)
 print("\n")
 print("Lenovo laptop price:", lenovo.price)
-#print("lenovo processor:", lenovo.processor)
-#print("lenovo ram:", lenovo.ram)
+print("lenovo processor:", lenovo.processor)
+print("lenovo ram:", lenovo.ram)
+
 
 
